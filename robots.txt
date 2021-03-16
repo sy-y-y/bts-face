@@ -1,2 +1,4 @@
 User-agent: *
 Allow:/
+
+sitemap: http://www.btsfangame.com/sitemap.xml
